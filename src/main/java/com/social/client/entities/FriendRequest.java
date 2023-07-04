@@ -1,4 +1,4 @@
-package com.example.socialclient.entities;
+package com.social.client.entities;
 
 
 import lombok.AllArgsConstructor;

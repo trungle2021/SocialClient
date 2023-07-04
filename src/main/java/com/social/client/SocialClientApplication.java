@@ -1,6 +1,6 @@
-package com.example.socialclient;
+package com.social.client;
 
-import com.example.socialclient.common.ApiHelper;
+import com.social.client.common.ApiHelper;
 import com.google.gson.Gson;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
